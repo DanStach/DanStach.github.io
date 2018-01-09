@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome Dan Stach's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/DanStach/DanStach.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With a Computer Engineering degree and 10 years as a software tester, I am really great at braking everything I touch. Now with a github account I am sharing code that lets everyone brake things that should work.
 
 ### Markdown
 
